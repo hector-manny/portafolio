@@ -74,7 +74,7 @@ body {
 
 .img-container {
     position: relative;
-    background: url(/images/yo.png) no-repeat;
+    background: url(https://github.com/hector-manny/portafolio/blob/main/images/yo.png) no-repeat;
     background-size: cover;
     min-height: 350px;
     background-position: 0 0;
